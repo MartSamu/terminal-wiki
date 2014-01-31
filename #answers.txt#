@@ -1,0 +1,5 @@
+1. $2 = {"memory", "assembly", "compiler", "custom"}
+2. it is always calling options [-1] which does not exist, option only goes from 0 to 3. so it will crash for calling the void
+3. $1 = 59
+4. it is an int at 3
+5.the array only goes up to 3, assigning variable 23423 breaks the program because there is not data at that point for the program.
